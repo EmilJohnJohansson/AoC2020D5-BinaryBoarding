@@ -1,0 +1,20 @@
+{
+  "name": "aoc2020d5-binaryboarding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilJohnJohansson/AoC2020D5-BinaryBoarding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilJohnJohansson/AoC2020D5-BinaryBoarding/issues"
+  },
+  "homepage": "https://github.com/EmilJohnJohansson/AoC2020D5-BinaryBoarding#readme"
+}
